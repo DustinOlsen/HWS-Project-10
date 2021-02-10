@@ -13,6 +13,8 @@
 		BB3A32CA25D3520200A64E75 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BB3A32B525D3520100A64E75 /* ContentView.swift */; };
 		BB3A32CB25D3520200A64E75 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BB3A32B625D3520200A64E75 /* Assets.xcassets */; };
 		BB3A32CC25D3520200A64E75 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BB3A32B625D3520200A64E75 /* Assets.xcassets */; };
+		BB3A32D825D38C7000A64E75 /* songsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BB3A32D725D38C7000A64E75 /* songsView.swift */; };
+		BB3A32D925D38C7000A64E75 /* songsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BB3A32D725D38C7000A64E75 /* songsView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +26,7 @@
 		BB3A32C325D3520200A64E75 /* HWS Project 10.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "HWS Project 10.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		BB3A32C525D3520200A64E75 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		BB3A32C625D3520200A64E75 /* macOS.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = macOS.entitlements; sourceTree = "<group>"; };
+		BB3A32D725D38C7000A64E75 /* songsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = songsView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +62,7 @@
 			children = (
 				BB3A32B425D3520100A64E75 /* HWS_Project_10App.swift */,
 				BB3A32B525D3520100A64E75 /* ContentView.swift */,
+				BB3A32D725D38C7000A64E75 /* songsView.swift */,
 				BB3A32B625D3520200A64E75 /* Assets.xcassets */,
 			);
 			path = Shared;
@@ -188,6 +192,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				BB3A32C925D3520200A64E75 /* ContentView.swift in Sources */,
+				BB3A32D825D38C7000A64E75 /* songsView.swift in Sources */,
 				BB3A32C725D3520200A64E75 /* HWS_Project_10App.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -197,6 +202,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				BB3A32CA25D3520200A64E75 /* ContentView.swift in Sources */,
+				BB3A32D925D38C7000A64E75 /* songsView.swift in Sources */,
 				BB3A32C825D3520200A64E75 /* HWS_Project_10App.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
